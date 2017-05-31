@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Diva</string>
+    <string name="app_name">IseaProjectPhase2</string>
     <string name="action_settings">Settings</string>
     <string name="dwelcome"><b>Welcome to DIVA!</b></string>
-    <string name="dintro">DIVA (Damn insecure and vulnerable App) is an App intentionally
+    <string name="dintro">This is an App intentionally
                           designed to be insecure. The aim of the App is to teach
                           developers/QA/security professionals, flaws that are
                           generally present in the Apps due poor or insecure coding
                           practices. If you are reading this you want to either learn
                           App pentesting or secure coding and I sincerely hope that
-                          DIVA solves your purpose. So, sit back and enjoy the ride.</string>
+                          , this app solves your purpose. So, sit back and enjoy the ride.</string>
     <string name="chk_pin">check_pin</string>
     <string name="d1">1. Insecure Logging</string>
     <string name="d2">2. Hardcoding Issues - Part 1</string>
